@@ -1,0 +1,16 @@
+.box {
+  display: flex;
+  flex-direction: row;
+}
+
+.block {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.camera-box{
+  width: 100%;
+}
+
